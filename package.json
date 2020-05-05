@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramonruizrc/asincronismo.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/ramonruizrc/asincronismo/issues"
+  },
+  "homepage": "https://github.com/ramonruizrc/asincronismo#readme"
+}
