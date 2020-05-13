@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ramonruizrc/asincronismo/issues"
   },
-  "homepage": "https://github.com/ramonruizrc/asincronismo#readme"
+  "homepage": "https://github.com/ramonruizrc/asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
